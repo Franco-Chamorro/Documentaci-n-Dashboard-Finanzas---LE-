@@ -33,7 +33,7 @@ El dashboard se compone de los siguientes gráficos:
 
 ## 📈 Gráfico 1 – *Recaudación por concepto de "DIEZMO Y OFRENDA"*
 
-![Gráfico 1](./imagenes/grafico_1.png)
+![Gráfico 1](./imagenes/grafico1.png)
 
 ### 🎯 Objetivo
 
