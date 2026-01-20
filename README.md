@@ -8,7 +8,7 @@ Este documento describe los gráficos presentes en el dashboard de Finanzas Igle
 * **Herramienta:** Looker Studio
 * **Fuente de datos:** Google Sheets
 * **Responsable:** Franco Chamorro
-* **Última actualización:** 16-01-2026
+* **Última actualización:** 20-01-2026
 
 ---
 
