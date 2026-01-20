@@ -42,7 +42,7 @@ Gráfico 11 – *Recaudación Total "DIEZMO Y OFRENDA": Mes y Semana*
 
 ## 📈 Gráfico 1 – *Recaudación total por concepto de "DIEZMO Y OFRENDA"*
 
-![Gráfico 1](./imagenes/grafico_1.png)
+![Gráfico 1](Imagenes/Gráfico_1.png)
 
 ### 🎯 Objetivo
 
@@ -73,7 +73,7 @@ Gráfico 11 – *Recaudación Total "DIEZMO Y OFRENDA": Mes y Semana*
 
 ## 📈 Gráfico 2 – *Recaudación total por concepto de "EDUCA MONTEALTO"*
 
-![Gráfico 2](./imagenes/grafico_2.png)
+![Gráfico 2](Imagenes/Gráfico_2.png)
 
 ### 🎯 Objetivo
 
@@ -104,7 +104,7 @@ Gráfico 11 – *Recaudación Total "DIEZMO Y OFRENDA": Mes y Semana*
 
 ## 📈 Gráfico 3 – *Recaudación total por concepto de "CENTRO MEDICO"*
 
-![Gráfico 3](./imagenes/grafico_2.png)
+![Gráfico 3](Imagenes/Gráfico_3.png)
 
 ### 🎯 Objetivo
 
@@ -136,7 +136,7 @@ Gráfico 11 – *Recaudación Total "DIEZMO Y OFRENDA": Mes y Semana*
 
 ## 📈 Gráfico 4 – *Recaudación total por concepto de "ACOGE"*
 
-![Gráfico 4](./imagenes/grafico_2.png)
+![Gráfico 4](Imagenes/Gráfico_4.png)
 
 ### 🎯 Objetivo
 
@@ -167,7 +167,7 @@ Gráfico 11 – *Recaudación Total "DIEZMO Y OFRENDA": Mes y Semana*
 
 ## 📈 Gráfico 5 – *Detalle por mes de "DIEZMO Y OFRENDA", "EDUCA MONTEALTO", "CENTRO MEDICO" y "ACOGE"*
 
-![Gráfico 5](./imagenes/grafico_2.png)
+![Gráfico 5](Imagenes/Gráfico_5.png)
 
 ### 🎯 Objetivo
 
@@ -200,7 +200,7 @@ Gráfico 11 – *Recaudación Total "DIEZMO Y OFRENDA": Mes y Semana*
 
 ## 📈 Gráfico 6 – *Detalle por mes y semana de "DIEZMO Y OFRENDA"*
 
-![Gráfico 6](./imagenes/grafico_2.png)
+![Gráfico 6](Imagenes/Gráfico_6.png)
 
 ### 🎯 Objetivo
 
@@ -231,7 +231,7 @@ Gráfico 11 – *Recaudación Total "DIEZMO Y OFRENDA": Mes y Semana*
 
 ## 📈 Gráfico 7 – *Detalle "DIEZMO Y OFRENDA" por reunión*
 
-![Gráfico 7](./imagenes/grafico_2.png)
+![Gráfico 7](Imagenes/Gráfico_7.png)
 
 ### 🎯 Objetivo
 
@@ -263,7 +263,7 @@ Por lo mismo, es posible identificar la semana del mes (1, 2, 3, 4, 5 o 6), el d
 
 ## 📈 Gráfico 8 – *Detalle "DIEZMO Y OFRENDA" por concepto horario (AM/PM)*
 
-![Gráfico 8](./imagenes/grafico_2.png)
+![Gráfico 8](Imagenes/Gráfico_8.png)
 
 ### 🎯 Objetivo
 
@@ -296,7 +296,7 @@ Asimismo, las reuniones se individualizan según el horario, diferenciando entre
 
 ## 📈 Gráfico 9 – *Detalle "DIEZMO Y OFRENDA" por mes*
 
-![Gráfico 9](./imagenes/grafico_2.png)
+![Gráfico 9](Imagenes/Gráfico_9.png)
 
 ### 🎯 Objetivo
 
@@ -329,7 +329,7 @@ Además, cada mes se presenta acompañado del año correspondiente y de la meta 
 
 ## 📈 Gráfico 10 – *Recaudación total "DIEZMO Y OFRENDA": Actual vs Año Pasado*
 
-![Gráfico 10](./imagenes/grafico_2.png)
+![Gráfico 10](Imagenes/Gráfico_10.png)
 
 ### 🎯 Objetivo
 
@@ -366,7 +366,7 @@ Además, cada mes se presenta acompañado del año correspondiente y de la meta 
 
 ## 📈 Gráfico 11 – *Recaudación Total "DIEZMO Y OFRENDA": Mes y Semana*
 
-![Gráfico 11](./imagenes/grafico_2.png)
+![Gráfico 11](Imagenes/Gráfico_11.png)
 
 ### 🎯 Objetivo
 
